@@ -5,7 +5,7 @@ package dk.cphbusiness.cphbusiness.sem3.ci;
  * @author jens
  */
 public class MyFunctionality {
-
+    //hello
   private MyFunctionality() {
     // Should not be instantiated
   }
